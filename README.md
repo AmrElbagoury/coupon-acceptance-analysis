@@ -1,5 +1,5 @@
 # coupon-acceptance-analysis
-
+## Investigating the Bar Coupons:
 * **Frequency of bar visits is the strongest predictor of acceptance.** Drivers who visit bars more than 3 times a month accepted at nearly double the rate (**76.88%**) compared to those who go 3 or fewer times (**37.07%**).
 * **Social context matters more than age.** Drivers who go to bars more than once a month without kids as passengers accepted at **71.79%**, while adding the age filter (over 25) slightly reduced the rate to **69.52%**.
 * **Occupation play a role.** Removing drivers in farming, fishing, and forestry occupations from the frequent bar-goer group maintained a high acceptance rate of **71.79%**
