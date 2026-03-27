@@ -31,3 +31,6 @@ The goal of this project is to use what you know about visualizations and probab
 
 ## Tools Used
 - Python, Pandas, Matplotlib, Seaborn, Numpy Jupyter Notebook
+
+## Links
+- [Jupyter Notebook](https://github.com/AmrElbagoury/coupon-acceptance-analysis/blob/main/coupon_acceptance_analysis.ipynb)
